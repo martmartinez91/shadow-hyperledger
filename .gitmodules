@@ -1,0 +1,21 @@
+[submodule "burrow"]
+	path = burrow
+	url = git@github.com:hyperledger/burrow.git
+[submodule "cello"]
+	path = cello
+	url = git@github.com:hyperledger/cello.git
+[submodule "fabric"]
+	path = fabric
+	url = git@github.com:hyperledger/fabric.git
+[submodule "indy-node"]
+	path = indy-node
+	url = git@github.com:hyperledger/indy-node.git
+[submodule "iroha"]
+	path = iroha
+	url = git@github.com:hyperledger/iroha.git
+[submodule "sawtooth-core"]
+	path = sawtooth-core
+	url = git@github.com:hyperledger/sawtooth-core.git
+[submodule "shadow"]
+	path = shadow
+	url = git@github.com:shadow/shadow.git
